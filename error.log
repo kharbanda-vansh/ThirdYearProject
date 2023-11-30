@@ -1,0 +1,1302 @@
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/extract_protein_names/extract_protein_names.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bactopia/bactopia.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/stablab.uniroma2.it/stablab.uniroma2.it.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/realityconvert/realityconvert.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/metagoflow/metagoflow.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ftk/ftk.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/picard_addorreplacereadgroups/picard_addorreplacereadgroups.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gacal/gacal.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gdd/gdd.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bitmapperbs/bitmapperbs.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pangpcr/pangpcr.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/htd/htd.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mcscan/mcscan.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/spot-rna2/spot-rna2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/scntimpute/scntimpute.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/irtbemm/irtbemm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/eautils/eautils.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/slow5tools/slow5tools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/metaprokka/metaprokka.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gpcr-sas/gpcr-sas.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ddgun/ddgun.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ordb/ordb.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/scanitd/scanitd.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/parallel/parallel.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/drugsim2dr_0.1.1/drugsim2dr_0.1.1.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/vg/vg.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/odefy/odefy.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/liferay/liferay.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rebaler/rebaler.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/reads2map/reads2map.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/tools/tools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/chunkchromosome/chunkchromosome.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bedtk/bedtk.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/varsellcm/varsellcm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/elaspic/elaspic.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dodona/dodona.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ants_marking_and_analysis_tools/ants_marking_and_analysis_tools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/odysseyoa1/odysseyoa1.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/eags/eags.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pydfn3d/pydfn3d.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bitterdb/bitterdb.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/knot_pull/knot_pull.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/causal-extractor/causal-extractor.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gdc-api/gdc-api.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mtmr-net/mtmr-net.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/orthomcl/orthomcl.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/iirtplay/iirtplay.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/sdtlu/sdtlu.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/tessa/tessa.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/paraload/paraload.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/sequoia/sequoia.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/b2btools/b2btools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bamtocov/bamtocov.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/glyco-expasy/glyco-expasy.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/lcsm/lcsm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/toolbox_for_sensitive_data_objects_tsdo/toolbox_for_sensitive_data_objects_tsdo.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/interleafq/interleafq.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ncview/ncview.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mego_pay/mego_pay.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pdeparams/pdeparams.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/basenumber/basenumber.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/iggbreak/iggbreak.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rasusa/rasusa.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/vembrane/vembrane.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/homer/homer.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mols_2.0/mols_2.0.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/som/som.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mofi/mofi.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/factorviz/factorviz.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/psper/psper.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bam-lorenz-coverage/bam-lorenz-coverage.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/airr_tools/airr_tools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/variant-calling-at-scale/variant-calling-at-scale.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/odoractor/odoractor.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/nas/nas.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/toulligqc/toulligqc.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/trance/trance.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/picard_bedtointervallist/picard_bedtointervallist.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/xml2tsv/xml2tsv.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/picard_collectalignmentsummarymetrics/picard_collectalignmentsummarymetrics.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/drugsim2dr/drugsim2dr.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/halvade_somatic/halvade_somatic.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/swcrtdesign/swcrtdesign.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/horde/horde.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dp-glpca/dp-glpca.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/victor-clustering-comparison/victor-clustering-comparison.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/sm2rain/sm2rain.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mirfix/mirfix.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rootnav_2.0/rootnav_2.0.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/odysseyoa/odysseyoa.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ncbi-protein/ncbi-protein.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/laniakea/laniakea.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dr_disco/dr_disco.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mlme/mlme.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gbrowse_giant_virus/gbrowse_giant_virus.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/strling/strling.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/arena3dweb/arena3dweb.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/hapcut2/hapcut2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/svip/svip.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/denovogear/denovogear.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/alcor/alcor.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gcsa2/gcsa2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/label3dmaize/label3dmaize.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/cas-offinder/cas-offinder.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/hdcytodata/hdcytodata.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/segmetrics/segmetrics.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bam-readcount/bam-readcount.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/chemenv/chemenv.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/bjass/bjass.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rps999/rps999.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/galaxygpcrloop/galaxygpcrloop.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/tremoroton/tremoroton.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mmv_im2im/mmv_im2im.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/amm/amm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/covtools/covtools.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/founder_sequences/founder_sequences.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/stardust/stardust.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/biolib/biolib.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/galactic_circos/galactic_circos.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/parliament2/parliament2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/nccmp/nccmp.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/saige/saige.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/visfeature/visfeature.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dadaist2/dadaist2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dicomtypetranslation/dicomtypetranslation.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/callc/callc.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/torrentsuite/torrentsuite.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/idr/idr.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/tabsap/tabsap.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pepr-r-package/pepr-r-package.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gdc-client/gdc-client.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/genie-codec/genie-codec.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/aloha/aloha.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/autoclassweb/autoclassweb.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/annotatemyids/annotatemyids.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/clintrajan/clintrajan.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/retrieve_matrix/retrieve_matrix.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/guidemaker/guidemaker.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ketoadvanced/ketoadvanced.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/diggbclients/diggbclients.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/filtlong/filtlong.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/peppy-python-package/peppy-python-package.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/vcfshark/vcfshark.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/recetox-xmsannotator/recetox-xmsannotator.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dapt/dapt.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rubic/rubic.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gsl/gsl.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/extasy/extasy.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/toxipred/toxipred.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mendelgen/mendelgen.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ibd_benchmark_tool/ibd_benchmark_tool.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/nucls/nucls.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/popharvest/popharvest.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/easydockvina_2.0/easydockvina_2.0.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/flt/flt.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ezclermont/ezclermont.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pygomodo/pygomodo.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/qax/qax.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dataplan/dataplan.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/epacts/epacts.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/nf-core-taxprofiler/nf-core-taxprofiler.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/inparanoid-diamond/inparanoid-diamond.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ldhat/ldhat.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/nco/nco.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gprcana/gprcana.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/netcdf/netcdf.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pasteur_mlst/pasteur_mlst.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/galaxy_scater/galaxy_scater.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/dag-deepvase/dag-deepvase.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/gff3_rebase/gff3_rebase.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/memprotmd/memprotmd.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/multiple_myeloma_survival_prediction/multiple_myeloma_survival_prediction.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/european_mouse_mutant_archive_emma/european_mouse_mutant_archive_emma.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/codonw/codonw.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/control-freec/control-freec.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mlcps/mlcps.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/galaxy7tm/galaxy7tm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/glycomaple/glycomaple.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/prclust/prclust.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/aria_access/aria_access.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/padloc/padloc.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/adapterremoval/adapterremoval.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/deathdaily/deathdaily.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/seth_1/seth_1.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/haru/haru.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/shic/shic.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pyfastaq/pyfastaq.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/otusfocus/otusfocus.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/clustlasso/clustlasso.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rdmkit/rdmkit.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/findplantnlrs/findplantnlrs.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/csa2.6/csa2.6.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/qcgenomics/qcgenomics.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mulan-methyl/mulan-methyl.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/snp-mutator/snp-mutator.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/crossmap/crossmap.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/spheroscan/spheroscan.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/plinkr/plinkr.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/eido-python-package/eido-python-package.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/scattermore/scattermore.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/vardict/vardict.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/ampliconnoise/ampliconnoise.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/human-gpdb/human-gpdb.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/superdsm/superdsm.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/mvsim/mvsim.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/n50/n50.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/humann2/humann2.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/godel-numbering/godel-numbering.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/pyeulercurves/pyeulercurves.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/tb-profiler/tb-profiler.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/morfee/morfee.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/cgmtsa/cgmtsa.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/genomepy/genomepy.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/rmlst_api/rmlst_api.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/phasepy/phasepy.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/cherri/cherri.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
+Error: cannot access local variable 'terms' where it is not associated with a value in file: ../research-software-ecosystem-content/data/multilayer_extraction/multilayer_extraction.biotools.json
+Traceback (most recent call last):
+  File "/Users/vansh_kharbanda/Documents/ThirdYearProject/ThirdYearProject/vocabulary_script.py", line 38, in process_folder
+    collection_id = terms
+    ^^^^^
+UnboundLocalError: cannot access local variable 'terms' where it is not associated with a value
