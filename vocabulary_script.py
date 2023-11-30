@@ -20,10 +20,14 @@ def process_folder(folder_path):
                 with open(file_path, 'r') as file:
                     biotools_data = json.load(file)
 
-                    # Extract biotoolsID and CollectionID
+                    # Extract biotoolsID and CollectionID(or topic)
                     try:
                         biotools_id = biotools_data.get('biotoolsID')
                         collection_id = biotools_data.get('CollectionID')
+                        if collection_id is None:
+                            collection_id = biotools_data.get('collectionID')
+                        # if biotools_id == 'rabbit_in_a_hat':
+                        #     print(f'-------{collection_id}------')
                         if collection_id is None:
                             collection_id = biotools_data.get('topic')
                             if collection_id:
@@ -39,14 +43,12 @@ def process_folder(folder_path):
                         if (biotools_id is not None) and (collection_id is not None):
                             vocabulary_data[biotools_id] = collection_id
                     except Exception as e:
-                         print(f'Error: {e}')
+                        print(f'Error: {e} in file: {file_path}')
                          
     return vocabulary_data
 
-def iterate_folder(folder_name = 'uniprotkb'):
+def iterate_folder():
     root_folder = f'../research-software-ecosystem-content/data'
-    # root_folder = f'../research-software-ecosystem-content/data/{folder_name}'
-    # root_folder = '../research-software-ecosystem-content/data/uniprotkb/uniprotkb.biotools.json'
     final_vocabulary = {}
 
     count = 0
@@ -68,7 +70,7 @@ def iterate_folder(folder_name = 'uniprotkb'):
     # # Write the final vocabulary data to 'vocabulary.json'
     with open('vocabulary.json', 'w') as vocab_file:
         json.dump(final_vocabulary, vocab_file, indent=4)
-        
+
     print(f'Total number of folders parsed: {count}')
 
 iterate_folder()
