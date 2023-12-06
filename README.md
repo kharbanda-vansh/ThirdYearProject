@@ -8,7 +8,9 @@ The Complete project is divided into two main parts:
 2. Improving Solr search engine
 
 ### Improving Tags:
-1. Establish a base line of tags present in different sections as well overall tags present
+1. Establish a base line of tags present in different sections as well overall tags present:
+    - Get an average tags of all the tags present in the portal
+    - Get an average tags of tags for each section
 2. Get the data dump from bio.tools to form a vocabulary for tags
 3. Run text scrappers to find the appropiate tags for all modules
 4. Test the optimal number of tags
