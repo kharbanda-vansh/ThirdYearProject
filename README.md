@@ -15,3 +15,8 @@ The Complete project is divided into two main parts:
 3. Run text scrappers to find the appropiate tags for all modules
 4. Test the optimal number of tags
 5. Devise a way to add tags whenever a new module is added in order to maintain the integrity of the search
+
+### Adding the knowlwdge graphs:
+1. Based on the tags find similarity between all events, materials and worflows
+2. Set a threshold and find related events, materials and worflows
+3. Add the knowledge graph in every page
