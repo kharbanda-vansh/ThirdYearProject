@@ -1,0 +1,5 @@
+Tags fetch:
+    Events processed - 147, time taken - 6.86 second(s)
+    Workflows processed - 29, time taken - 1.67 second(s)
+    Materials processed - 2031, time taken - 94.31 second(s)
+    
