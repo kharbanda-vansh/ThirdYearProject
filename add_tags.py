@@ -26,7 +26,12 @@ def extract_tags_from_text(text, vocabulary):
         #         tags.add(similar_word)
     
     # return list(tags)
-    main_word = 
+    main_word = vocabulary.keys()
+    related_words =vocabulary.values()
+    print(len(main_word) + len(related_words))
+    for t in text:
+        if t in main_word:
+            tags.append()
     
 def find_similar_words(word, vocabulary):
     similar_words = set()
@@ -65,10 +70,10 @@ def main():
         # Load vocabulary from the JSON file
         with open('vocabulary.json', 'r') as file:
             vocabulary = json.load(file)
-
-        # Extract tags based on the vocabulary and similar words
-        tags = extract_tags_from_text(text_content, vocabulary)
-        print(tags)
+            
+        # # Extract tags based on the vocabulary and similar words
+        # tags = extract_tags_from_text(text_content, vocabulary)
+        # print(tags)
     # else:
     #     print(f'Error: {response.status_code}')
 

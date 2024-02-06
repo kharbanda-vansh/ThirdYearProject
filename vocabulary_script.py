@@ -1,6 +1,9 @@
 import os
 import json
 import traceback
+from nltk.stem import WordNetLemmatizer
+
+lemmatizer = WordNetLemmatizer()
 
 
 def process_folder(folder_path, error_log):
@@ -24,13 +27,17 @@ def process_folder(folder_path, error_log):
                     # Extract biotoolsID and CollectionID(or topic)
                     try:
                         biotools_id = biotools_data.get('biotoolsID')
+                        biotools_id = lemmatizer.lemmatize(biotools_id)
                         collection_id = biotools_data.get('CollectionID')
+                        collection_id = lemmatizer.lemmatize(collection_id)
                         if collection_id is None:
                             collection_id = biotools_data.get('collectionID')
+                            collection_id = lemmatizer.lemmatize(collection_id)
                         # if biotools_id == 'rabbit_in_a_hat':
                         #     print(f'-------{collection_id}------')
                         if collection_id is None:
                             collection_id = biotools_data.get('topic')
+                            collection_id = lemmatizer.lemmatize(collection_id)
                             if collection_id:
                                 terms = []
                                 for i in range (len(collection_id)):
@@ -73,6 +80,7 @@ def iterate_folder():
 
     # # Write the final vocabulary data to 'vocabulary.json'
     with open('vocabulary.json', 'w') as vocab_file:
+
         json.dump(final_vocabulary, vocab_file, indent=4)
 
     print(f'Total number of folders parsed: {count}')
